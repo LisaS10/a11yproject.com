@@ -1427,6 +1427,13 @@
 	],
 	"podcasts": [
 		{
+			"title": "Texthelp Talks",
+			"description": "Texthelp Talks - A11Y Podcast.",
+			"additional": "Edtech, Accessibility & Workplace Diversity & Inclusion Podcast",
+			"url": "https://www.texthelp.com/resources/podcasts/",
+			"type": "Podcast"
+		},
+		{
 			"title": "13 Letters",
 			"description": "The accessibility podcast.",
 			"additional": "Be My Eyes",
